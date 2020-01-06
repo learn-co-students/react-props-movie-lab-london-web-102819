@@ -48,6 +48,3 @@ MovieCard.defaultProps = {
   genres: ["No Genre(s) Found"],
   poster: "default"
 };
-
-//Does the sequence matther?
-//title, IMDBRating, genres, poster
